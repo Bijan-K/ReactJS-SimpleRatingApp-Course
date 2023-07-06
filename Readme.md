@@ -1,6 +1,7 @@
 Finalized project of brad traversy's React Course
 
 to run first install the dependencies then run the server:
+
 ```bash
 npm i 
 # then
