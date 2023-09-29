@@ -1,6 +1,7 @@
 ## Finalized project of brad traversy's React Course
 
-![image](https://github.com/Bijan-K/ReactJS-SimpleRatingApp-Course/assets/80640045/5e6c89f5-e649-46c1-9e5b-8709786dead9)
+![image](https://github.com/Bijan-K/ReactJS-SimpleRatingApp-Course/assets/80640045/9b3563d5-6fd9-4776-ac16-d5a1e2512568)
+
 
 to run first install the dependencies then run the server through the designated command:
 
