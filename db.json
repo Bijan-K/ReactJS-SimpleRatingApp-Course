@@ -14,16 +14,6 @@
       "id": 3,
       "rating": 8,
       "text": "this is feedback item 3 coming from backend"
-    },
-    {
-      "text": "dsadsadsadsad",
-      "rating": 4,
-      "id": 4
-    },
-    {
-      "text": "this is a new item, and edited",
-      "rating": 9,
-      "id": 5
     }
   ]
 }
